@@ -1,6 +1,5 @@
-<!-- Egg Shape Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:FFAFBD,100:FFC3A0&height=70&fontSize=26&section=header&text=Hello+World+🚀&animation=slideIn" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=60&fontSize=24&section=header&text=Hello+World+🚀"&animation=scaleIn" />
 </p>
 
 <!-- Header -->
