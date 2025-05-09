@@ -11,8 +11,7 @@
 
 🌞 Based in sun-kissed Sydney, Australia
 
-### Fun fact
-🤔 I swipe left on anyone who writes SELECT *
+🤔 Fun fact: I swipe left on anyone who writes SELECT *
 
 <!-- Tech Stack -->
 ### 🛠️ Tech Stack
