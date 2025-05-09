@@ -15,10 +15,10 @@
 
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" width="30" height="30"/>
-  <img src="https://img.shields.io/badge/-Pandas-2CA7E0?logo=pandas&logoColor=white" alt="Pandas" width="30" height="30"/>
-  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" width="30" height="30"/>
-  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" alt="Scikit-Learn" width="30" height="30"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" width="30" height="30"/>
+  <img src="https://img.shields.io/badge/-Pandas-2CA7E0?logo=pandas&logoColor=white" width="30" height="30"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" width="30" height="30"/>
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" width="30" height="30"/>
   <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" width="30" height="30"/>
   <img src="https://img.shields.io/badge/-SQL-316192?logo=postgresql&logoColor=white" alt="SQL" width="30" height="30"/>
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" width="30" height="30"/>
