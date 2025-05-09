@@ -3,6 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=+Hello+World+🚀" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api
+    ?type=soft
+    &color=0:FF9A9E,100:FAD0C4
+    &height=200
+    &section=header
+    &text=Code+Is+Art+🎨
+    &fontSize=55
+    &animation=scaleIn" />
+</p>
+
 <!-- About -->
 ### Fun facts:
 🤔 I swipe left on anyone who writes SELECT *
@@ -21,9 +32,9 @@
 - [eu-covid19-adf](https://github.com/itsannhienjoy/eu-covid19-adf)  
   ADF pipelines ingesting and transforming ECDC data for real-time dashboards.
 - [drillhole-augrade-estimator](https://github.com/itsannhienjoy/drillhole-augrade-estimator)  
-  Automated gold‐grade analysis with unit tests—cut manual prep time by 70%.  
+  automated gold‐grade analysis with unit tests.  
 - [hotel-booking-system-analysis](https://github.com/itsannhienjoy/hotel-booking-system-analysis)  
-  End-to-end data model & reporting for a hotel management system.  
+  end-to-end data model and reporting for a hotel management system.  
 
 ### 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?logo=linkedin)](https://linkedin.com/in/itsannhienjoy)  
