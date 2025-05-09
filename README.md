@@ -31,7 +31,6 @@
   <!-- Orchestration & BI -->
   <img src="https://cdn.simpleicons.org/apacheairflow"  alt="Airflow"        width="40" height="40" />
   <img src="https://cdn.simpleicons.org/dbt"            alt="dbt"            width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/powerbi"        alt="Power BI"       width="40" height="40" />
 
   <!-- Dev & CI/CD -->
   <img src="https://cdn.simpleicons.org/github"         alt="GitHub"         width="40" height="40" />
