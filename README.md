@@ -8,7 +8,7 @@
 
 <!-- Intro Text -->
 <p align="center">
-  🎉 I’m <strong>Jenny</strong> and welcome to my GitHub profile!
+  I’m <strong>Jenny</strong> and welcome to my GitHub profile!
 </p>
 
 
