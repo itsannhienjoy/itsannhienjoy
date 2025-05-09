@@ -9,12 +9,11 @@
 
 <!-- Intro Text -->
 <p align="center">
-  🎉 I’m <strong>Jenny</strong> and welcome to my GitHub profile!  
-  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="20px" alt="Octocat" />
+  🎉 I’m <strong>Jenny</strong> and welcome to my GitHub profile!
 </p>
 
 
-💻 Data Engineer based in Sydney, Australia
+💻 I'm a Data Engineer based in Sydney, Australia
 
 🤔 Fun fact: I swipe left on anyone who writes SELECT *
 
