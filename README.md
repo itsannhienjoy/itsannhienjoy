@@ -1,3 +1,11 @@
+<!-- Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF9A9E,100:FAD0C4&height=200&section=header&text=Hello+World+🎨&fontSize=55&animation=scaleIn" />
+</p>
+md
+Copy
+Edit
+
 <!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api
