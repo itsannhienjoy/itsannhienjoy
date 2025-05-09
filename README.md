@@ -1,10 +1,8 @@
-<!-- Animation -->
+<!-- Slice Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF9A9E,100:FAD0C4&height=200&section=header&text=Hello+World+🎨&fontSize=55&animation=scaleIn" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&section=header&text=text=+Hello+World+🚀" />
 </p>
-md
-Copy
-Edit
+
 
 <!-- Header -->
 <p align="center">
