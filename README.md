@@ -1,13 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=+Hello+World+🚀&fontSize=30&fontColor=grey" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=+Hello+World+!&fontSize=30&fontColor=grey" />
 </p>
 
 <!-- About -->
-### Hi, I'm Jenny!
+### Hi, I'm Jenny
 👩‍💻 Data Engineer
-
-🎓 Studied Computer Science at the University of Wollongong, NSW
 
 🌞 Based in sun-kissed Sydney, Australia
 
