@@ -18,13 +18,11 @@
   <img src="https://cdn.simpleicons.org/scikitlearn"   alt="Scikit-Learn"  width="40" height="40" />
 
   <!-- Cloud Platforms -->
-  <img src="https://cdn.simpleicons.org/microsoftazure" alt="Azure"          width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/amazonaws"      alt="AWS"            width="40" height="40" />
   <img src="https://cdn.simpleicons.org/snowflake"      alt="Snowflake"      width="40" height="40" />
 
   <!-- Databases & Big Data -->
   <img src="https://cdn.simpleicons.org/postgresql"     alt="PostgreSQL"     width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/apachecassandra"alt="Cassandra"      width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/apachecassandra" alt="Cassandra"      width="40" height="40" />
   <img src="https://cdn.simpleicons.org/mysql"          alt="MySQL"          width="40" height="40" />
   <img src="https://cdn.simpleicons.org/mongodb"        alt="MongoDB"        width="40" height="40" />
   <img src="https://cdn.simpleicons.org/apachespark"    alt="Apache Spark"   width="40" height="40" />
@@ -34,7 +32,6 @@
   <img src="https://cdn.simpleicons.org/apacheairflow"  alt="Airflow"        width="40" height="40" />
   <img src="https://cdn.simpleicons.org/dbt"            alt="dbt"            width="40" height="40" />
   <img src="https://cdn.simpleicons.org/powerbi"        alt="Power BI"       width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/matplotlib"     alt="Matplotlib"     width="40" height="40" />
 
   <!-- Dev & CI/CD -->
   <img src="https://cdn.simpleicons.org/github"         alt="GitHub"         width="40" height="40" />
