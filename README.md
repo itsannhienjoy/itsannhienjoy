@@ -1,10 +1,18 @@
-<!-- Banner -->
+<!-- Big Hello Title -->
+<h1 align="center">Hello World! 👋</h1>
+<hr/>
+
+<!-- Illustration -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=+Hello+World!&fontSize=30&fontColor=grey" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajM3dWJmZmgwMmJ0bWtzbjFjYWRtZDQxMzdvMmh3NG8zMjFmeDdlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26Q3972gJPe7iZOZgQ/giphy.gif" width="120px" alt="Waving Hello GIF" />
 </p>
 
-<!-- About -->
-### Hi, I'm Jenny 
+<!-- Intro Text -->
+<p align="center">
+  🎉 I’m <strong>Jenny</strong> and welcome to my GitHub profile!  
+  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="20px" alt="Octocat" />
+</p>
+
 
 💻 Data Engineer based in Sydney, Australia
 
