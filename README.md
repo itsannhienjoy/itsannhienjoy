@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=80&fontSize=26&section=header&text=Data+Magic+⚡️&animation=none" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=+Hello+World+🚀" />
 </p>
 
 <!-- About -->
