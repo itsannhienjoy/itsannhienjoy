@@ -6,8 +6,10 @@
 <!-- About -->
 ### Hi, I'm Jenny!
 👩‍💻 Data Engineer
+
 🎓 Studied Computer Science at the University of Wollongong, NSW
-🌞 Based in sun-kissed Sydney, Australia 
+
+🌞 Based in sun-kissed Sydney, Australia
 
 ### Fun fact
 🤔 I swipe left on anyone who writes SELECT *
