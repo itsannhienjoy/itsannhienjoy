@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=+Hello+World+🚀&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=+Hello+World+🚀&fontSize=30&fontColor=grey" />
 </p>
 
 <!-- About -->
