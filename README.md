@@ -1,21 +1,14 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=60&fontSize=24&section=header&text=Hello+World+🚀"&animation=scaleIn" />
-</p>
-
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api
-    ?type=soft
-    &color=0:FF9A9E,100:FAD0C4
-    &height=200
-    &section=header
-    &text=Code+Is+Art+🎨
-    &fontSize=55
-    &animation=scaleIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=80&fontSize=26&section=header&text=Data+Magic+⚡️&animation=none" />
 </p>
 
 <!-- About -->
-### Fun facts:
+### Hi, I'm Jenny!
+Data Engineer with a passion in 
+Studied Computer Science at the University of Wollongong, NSW
+
+### Fun facts
 🤔 I swipe left on anyone who writes SELECT *
 
 <!-- Tech Stack -->
