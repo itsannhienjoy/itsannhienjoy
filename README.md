@@ -1,9 +1,5 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=+Hello+World+🚀" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api
     ?type=soft
     &color=0:FF9A9E,100:FAD0C4
