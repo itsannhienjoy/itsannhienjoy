@@ -1,6 +1,13 @@
 <!-- Slice Banner -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&section=header&text=+Hello+World+🚀" />
+  <img src="https://capsule-render.vercel.app/api
+    ?type=egg
+    &color=0:FFAFBD,100:ffc3a0
+    &height=90
+    &fontSize=32
+    &section=header
+    &text=Hello+World+🚀" />
 </p>
 
 
