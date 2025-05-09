@@ -4,7 +4,6 @@
 </p>
 
 <!-- About -->
-## Hello World 🚀
 ### Fun facts:
 🤔 I swipe left on anyone who writes SELECT *
 
