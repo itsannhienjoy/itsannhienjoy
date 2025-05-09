@@ -1,15 +1,7 @@
-<!-- Slice Banner -->
-
+<!-- Egg Shape Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api
-    ?type=egg
-    &color=0:FFAFBD,100:ffc3a0
-    &height=90
-    &fontSize=32
-    &section=header
-    &text=Hello+World+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:FFAFBD,100:FFC3A0&height=70&fontSize=26&section=header&text=Hello+World+🚀&animation=slideIn" />
 </p>
-
 
 <!-- Header -->
 <p align="center">
