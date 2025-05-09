@@ -5,10 +5,11 @@
 
 <!-- About -->
 ### Hi, I'm Jenny!
-Data Engineer with a passion in 
-Studied Computer Science at the University of Wollongong, NSW
+👩‍💻 Data Engineer
+🎓 Studied Computer Science at the University of Wollongong, NSW
+🌞 Based in sun-kissed Sydney, Australia 
 
-### Fun facts
+### Fun fact
 🤔 I swipe left on anyone who writes SELECT *
 
 <!-- Tech Stack -->
@@ -19,6 +20,9 @@ Studied Computer Science at the University of Wollongong, NSW
 ![Python](https://img.shields.io/badge/-Python-05122A?logo=python)
 ![SQL](https://img.shields.io/badge/-PostgreSQL-05122A?logo=postgresql)
 
+### 🚧 Currently Learning
+- Building **serverless ETL** pipelines with **AWS Glue**, **Lambda** & **Step Functions**  
+- Orchestrating complex workflows using **Apache Airflow**   
 
 <!-- Featured Projects -->
 ### 💼 Featured Projects
