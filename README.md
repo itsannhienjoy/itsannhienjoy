@@ -1,6 +1,5 @@
 <!-- Big Hello Title -->
 <h1 align="center">Hello World! 👋</h1>
-<hr/>
 
 <!-- Illustration -->
 <p align="center">
