@@ -42,10 +42,7 @@
   <img src="https://cdn.simpleicons.org/github"         alt="GitHub"         width="40" height="40" />
   <img src="https://cdn.simpleicons.org/docker"         alt="Docker"         width="40" height="40" />
 </p>
-
-### 🚧 Currently Learning
-- Building **serverless ETL** pipelines with **AWS Glue**, **Lambda** & **Step Functions**  
-- Orchestrating complex workflows using **Apache Airflow**   
+  
 
 ### 📫 Let’s Connect 
 [![Email](https://img.shields.io/badge/-Email-05122A?logo=gmail)](mailto:youremail@example.com)
